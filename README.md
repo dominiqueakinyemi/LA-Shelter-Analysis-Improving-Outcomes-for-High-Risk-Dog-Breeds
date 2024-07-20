@@ -13,34 +13,42 @@
 - [Limitations](#limitations)
 - [References](#references)
 
-### Project Overview
+## Project Overview
 
 Write here. 
 
-### Data Sources
+### Skills
+- Data cleaning
+
+### Tools
+- R
+
+## Data Sources
 
 Write here.
 
-### Tools
-
-- Excel
-
-### Data Cleaning and Preparation
+## Data Cleaning and Preparation
 
 I performed the following tasks:
 1. Write here. 
 
-### Exploratory Data Analysis
+## Exploratory Data Analysis
 
 I explored the data to answer the following questions:
 
-- Write here.
-- Write here.
-- Write here.
+Question?
+- Answer
+Question?
+- Answer
 
-### Data Analysis
+## Data Analysis
 
-Write here.
+I asked the following questions:
+
+Question?
+- Answer
+Question?
+- Answer
 
 ### Results and Findings
 
