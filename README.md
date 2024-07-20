@@ -50,22 +50,22 @@ Question?
 Question?
 - Answer
 
-### Results and Findings
+## Results and Findings
 
 The following is a summary of my analysis findings:
 1. Write here.
 2. Write here.
 
-### Recommendations
+## Recommendations
 
 Based on this analysis, I recommend the following actions:
 - Write here.
 - Write here.
 
-### Limitations
+## Limitations
 
 Write here.
 
-### References
+## References
 
 1. [Link name.](Link.com)
