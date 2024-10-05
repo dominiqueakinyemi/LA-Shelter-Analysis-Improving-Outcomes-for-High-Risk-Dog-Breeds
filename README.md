@@ -5,7 +5,7 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-- [Analysis Methods](#analysis-method)
+- [Analysis Methods](#analysis-methods)
 - [Key Findings](#key-findings)
 - [Recommendations](#recommendations)
 - [Conclusion](#conclusion)
@@ -15,6 +15,8 @@
 ## Project Overview
 
 Los Angeles County animal shelters are over capacity. At the time of this project, they are 180% over capacity. This project will analyze shelter data to identify which dog breeds contribute most to overpopulation and have the lowest adoption rates, longest stays, or highest risk of euthanasia. The goal is to use this analysis to develop actionable strategies for increasing adoption rates and reducing shelter overpopulation.
+
+** To view the full analysis and replicate it yourself, access the repository file "ShelterBreedAnalysis.Rmd" and the original Pawstats data set.
 
 ### Skills
 - Data cleaning
@@ -42,20 +44,24 @@ I performed the following tasks:
 8. Standardized breed names through mapping
 
 ## Analysis Methods
-EDA: Performed in-depth analysis of entire dataset to examine intake and outcome trends for all shelters and breeds
-Filtering: isolated the six high-risk breeds based on overrepresetnation in data, high euthanasia rates, low adoption rates, and long stays.
-Trend Analysis: compared monthly and yearly trends for high-risk breeds with overall shelter populations
+- EDA: performed in-depth analysis of the entire dataset to examine intake and outcome trends for all shelters and breeds
+
+- Filtering: isolated the six high-risk breeds based on overrepresentation in data, high euthanasia rates, low adoption rates, and long stays.
+
+- Trend Analysis: compared monthly and yearly trends for high-risk breeds with overall shelter populations
 
 ## Key Findings
+
 Overall Shelter Trends
-- Intakes peaked in 2019, then decreased 2020-2021 (COVID-19 Pandemic)
+- Intakes peaked in 2019, then decreased in 2020-2021 (COVID-19 Pandemic)
 - Intakes and euthanasia have increased in 2022-2023 (adoption increasing, though less steeply)
+
 High Risk Breeds
-- These breeds either make up more than 10% of overall data set (extreme outliers causing overrpopulation) OR
-- Have adoption rate higher than average of 42% (which is already less than half of all dogs), euthanasia rate higher than average of 14% (some breeds as high as 25%), or stays longer than the average of 15 days.
-- These breeds are: **bull terriers, german shepherds, chihuahuas, siberian huskies, boxers, and rottweilers.**
+- **Bull Terriers, German shepherds, Chihuahuas, Siberian huskies, Boxers, and Rottweilers.**
+- These breeds either make up more than 10% of overall data set (extreme outliers causing over-population) OR
+- Have an adoption rate higher than the average of 42% (which is already less than half of all dogs), a euthanasia rate higher than the average of 14% (some breeds as high as 25%), or stays longer than the average of 15 days.
 - While the overall population saw an increase in adoptions from 2022 to 2023, high-risk dogs saw a decrease in adoptions.
-- Rescue involvement has decreased for both the overall population and high risk population.
+- Rescue involvement has decreased for both the overall population and high-risk population.
   
 ## Recommendations
 
