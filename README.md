@@ -16,7 +16,7 @@
 
 Los Angeles County animal shelters are over capacity. At the time of this project, they are 180% over capacity. This project will analyze shelter data to identify which dog breeds contribute most to overpopulation and have the lowest adoption rates, longest stays, or highest risk of euthanasia. The goal is to use this analysis to develop actionable strategies for increasing adoption rates and reducing shelter overpopulation.
 
-** To view the full analysis and replicate it yourself, access the repository file "ShelterBreedAnalysis.Rmd" and the original Pawstats data set.
+** To view the full analysis steps and/or replicate it yourself, download the project file "Shelter_Analysis_Documentation.Rmd" and the cleaned "shelter_dogs" data set from this repository.
 
 ### Skills
 - Data cleaning
